@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hyanglllll
+- 👋 Hi, I’m @Hanyang
 - 👀 I’m interested in useless design
 - 🌱 I’m currently learning HCI at Indiana University
 - 💞️ I’m looking to collaborate on programmes
